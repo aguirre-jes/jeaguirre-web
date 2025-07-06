@@ -1067,3 +1067,8 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Cloud Native Panama */
+.button-cloud-native-panama {
+    --button-text: #ffffff;
+    --button-background: #0086ff;
+}
